@@ -12,6 +12,7 @@ public class TiposVariaveis {
         System.out.print(numero);
 
         final double VALOR DE PI = 3.14;
+        
 
     }
 }
